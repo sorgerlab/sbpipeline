@@ -1,4 +1,4 @@
-#summary is an open source MATLAB toolbox for managing, transforming, visualizing, and modeling data, in particular the high-throughput data encountered in Systems Biology.One-sentence summary of this page.
+#summary is an open source MATLAB toolbox for managing, transforming, visualizing, and modeling data, in particular the high-throughput data encountered in Systems Biology.
 
 = Introduction =
 
