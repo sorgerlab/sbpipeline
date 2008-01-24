@@ -12,6 +12,13 @@ The toolbox comprises the data-handling component of a larger effort in the
 = Details =
 DataRail was developed by members of the Sorger Lab, Harvard Medical School Department of Systems Biology and of the Lauffenburger Lab, MIT Biological Engineering. The primary developers of DataRail are [http://web.mit.edu/juliosae/www/ Julio Saez-Rodriguez] and Arthur Goldsipe; Jeremy Muhlich and Bjorn Millard also assist in the development of DataRail and are developing additional components of SBPipeline.
 
+You can find more details about DataRail in 
+
+J. Saez-Rodriguez*, A. Goldsipe*, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]
+Bioinformatics, in press. *both authors contributed equally to this work.
+[http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
+
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
