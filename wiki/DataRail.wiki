@@ -14,8 +14,8 @@ DataRail was developed by members of the Sorger Lab, Harvard Medical School Depa
 
 You can find more details about DataRail in 
 
-J. Saez-Rodriguez*, A. Goldsipe*, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]
-Bioinformatics, in press. *both authors contributed equally to this work.
+J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]
+Bioinformatics, in press. JSR and AG contributed equally to this work.
 [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
 
 
