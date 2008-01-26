@@ -19,12 +19,10 @@ Data can be exported in a minimal information standard (MIDAS-Minimal Informatio
 
 You can find more details about DataRail in the following article:
 
-[http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]
 
-J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger 
-
-Bioinformatics, in press. [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
-
+J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger \\
+[http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]\\
+Bioinformatics, in press. [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]\\
 JSR and AG contributed equally to this work.
 
 
