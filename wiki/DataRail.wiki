@@ -1,15 +1,10 @@
 #summary is an open source MATLAB toolbox for managing, transforming, visualizing, and modeling data, in particular the high-throughput data encountered in Systems Biology.
 
-= Introduction =
 A novel aspect of DataRail  is its focus on data integrity through the use of a flexible metadata structure. As data is processed in the toolbox, DataRail keeps track of data origins and creates an internal copy of functions and parameters that are used. Thus, a DataRail Project is self-contained and can serve as a way to exchange both data and models.
 
 The toolbox comprises the data-handling component of a larger effort in the 
 [http://www.cdpcenter.org/ Cell Decision Processes Center] at MIT and Harvard Medical School to create Systems Biology pipeline software (SBPipeline) for managing data, protocols, assumptions, and models.
 
-
-
-
-= Details =
 DataRail was developed by members of the Sorger Lab, Harvard Medical School Department of Systems Biology and of the Lauffenburger Lab, MIT Biological Engineering. The primary developers of DataRail are [http://web.mit.edu/juliosae/www/ Julio Saez-Rodriguez] and Arthur Goldsipe; Jeremy Muhlich and Bjorn Millard also assist in the development of DataRail and are developing additional components of SBPipeline.
 
 Data can be exported in a minimal information standard (MIDAS-Minimal Information for Data Analysis in Systems Biology) as well as in specific formats for
@@ -25,4 +20,4 @@ J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. La
 Bioinformatics, in press. [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
 JSR and AG contributed equally to this work.
 
-[http://code.google.com/p/sbpipeline/downloads/list Download DataRail].
+== [http://code.google.com/p/sbpipeline/downloads/list Click here] to download DataRail==.
