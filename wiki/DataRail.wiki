@@ -1,5 +1,7 @@
 #summary is an open source MATLAB toolbox for managing, transforming, visualizing, and modeling data, in particular the high-throughput data encountered in Systems Biology.
 
+http://sbpipeline.googlecode.com/files/DataRailLogo.png
+
 A novel aspect of DataRail  is its focus on data integrity through the use of a flexible metadata structure. As data is processed in the toolbox, DataRail keeps track of data origins and creates an internal copy of functions and parameters that are used. Thus, a DataRail Project is self-contained and can serve as a way to exchange both data and models.
 
 The toolbox comprises the data-handling component of a larger effort in the 
