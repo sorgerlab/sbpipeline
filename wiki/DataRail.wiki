@@ -19,7 +19,7 @@ You can find more details about DataRail in the following article:
 
 J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. Lauffenburger, P. K. Sorger
 [http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btn018 Flexible Informatics for Linking Experimental Data to Mathematical Models via DataRail.]
-Bioinformatics, in press. [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
+Bioinformatics, 24:6, 840-847. [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
 JSR and AG contributed equally to this work.
 
 *[http://code.google.com/p/sbpipeline/downloads/list Click here] to download DataRail*.
