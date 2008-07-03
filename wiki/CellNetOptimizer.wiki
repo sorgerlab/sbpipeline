@@ -3,4 +3,4 @@
 CellNetOptimizer is under development, but will be available soon. 
 
 In the meantime, feel free to contact 
-[http://web.mit.edu/juliosae/www/]Julio Saez-Rodriguez.
+[http://web.mit.edu/juliosae/www/Julio Saez-Rodriguez].
