@@ -1,4 +1,4 @@
-is an open source MATLAB toolbox for studying signaling networks using high-throughput data using a logic formalism.
+#summary is an open source MATLAB toolbox for studying signaling networks using high-throughput data using a logic formalism.
 
 = Introduction =
 
