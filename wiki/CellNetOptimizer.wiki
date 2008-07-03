@@ -1,6 +1,6 @@
 #summary is an open source MATLAB toolbox for studying signaling networks using high-throughput data using a logic formalism.
 
-= Introduction =
+CellNetOptimizer is under development, but will be available soon. 
 
-CellNetOptimizer is under development but will be available soon. Please contact 
-[http://web.mit.edu/juliosae/www/]Julio Saez-Rodriguez if you are interested in it.
+In the meantime, feel free to contact 
+[http://web.mit.edu/juliosae/www/]Julio Saez-Rodriguez.
