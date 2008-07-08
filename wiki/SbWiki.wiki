@@ -1,0 +1,7 @@
+#summary a wiki-based system which utilizes Semantic Web technologies to support collaborative management of unstructured and semi-structured Systems Biology data.
+
+SBWiki is a wiki-based system which utilizes Semantic Web technologies and a lightweight data entry and cataloging framework to support collaborative management of unstructured and semi-structured Systems Biology data.
+
+It aims to capture high-level knowledge of models, specifically the set of assumptions necessary for model interpretation that heretofore have not been encoded in any concrete manner (particularly pre-publication), along with lower-level SBML-compliant RDF annotations. SBWiki also tracks the experimental data used to train or evaluate models, such as details of the biological setting (species, cell type, growth or culture conditions) and experimental protocol; SBWiki integrates well with DataRail on this point, but both tools also support independent use. 
+
+SBWiki is under development, but will be available soon.
