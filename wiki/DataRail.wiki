@@ -22,4 +22,4 @@ J. Saez-Rodriguez, A. Goldsipe, J. Muhlich, L. Alexopoulos, B. Millard, D. A. La
 Bioinformatics, 24:6, 840-847 (2008). [http://dx.doi.org/10.1093/bioinformatics/btn018 doi:10.1093/bioinformatics/btn018]
 JSR and AG contributed equally to this work.
 
-*[http://code.google.com/p/sbpipeline/downloads/list Click here] to download DataRail*.
+*[http://code.google.com/p/sbpipeline/downloads/list Click here] to download DataRail* and some additional materials such as slides of a presentation or a tutorial.
