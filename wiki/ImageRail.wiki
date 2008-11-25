@@ -1,4 +1,4 @@
-_is an open-source Java program for fast viewing, analysis, and data-management of the large amounts of data acquired in quantitative high- and medium-throughput data found in Systems Biology_. 
+_is an open-source Java program for fast viewing, analysis, and data-management of the large amounts of data acquired in quantitative high- and medium-throughput data increasingly found in Systems Biology_. 
 
 = Introduction =
 
