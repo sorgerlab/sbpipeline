@@ -4,12 +4,13 @@
 
 ----------------------------------------
 
-* 05/22/09 New version 1.1*
+* 05/22/09 - New version 1.1* - [http://code.google.com/p/sbpipeline/downloads/list Click here] to download 
+
 - Extended normalizations routines
 
 - Many bugs fixed
 
-- Coming soon: Coupling to logic-based modeling (*CellNetOptimizer*) and Bayesian inference
+- Coming soon: Coupling to logic-based modeling (CellNetOptimizer) and Bayesian inference
 
 ----------------------------------------
 
