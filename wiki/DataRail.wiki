@@ -14,7 +14,7 @@ New features:
 
 - Many bugs fixed
 
-- *Coming soon*: Coupling to logic-based modeling (CellNetOptimizer) and Bayesian inference
+- *Coming soon*: Coupling to logic-based pathway calibration (CellNetOptimizer) and Bayesian inference
 
 --------------------------------------
 
