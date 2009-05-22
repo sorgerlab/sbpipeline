@@ -2,17 +2,21 @@
  
 [http://sbpipeline.googlecode.com/files/DataRailLogoTitle.png]
 
-----------------------------------------
+--------------------------------------
 
 * 05/22/09 - New version 1.1* - [http://code.google.com/p/sbpipeline/downloads/list Click here] to download 
+
+New features:
+
+- Simplified data input format
 
 - Extended normalizations routines
 
 - Many bugs fixed
 
-- Coming soon: Coupling to logic-based modeling (CellNetOptimizer) and Bayesian inference
+- *Coming soon*: Coupling to logic-based modeling (CellNetOptimizer) and Bayesian inference
 
-----------------------------------------
+--------------------------------------
 
 A novel aspect of DataRail  is its focus on data integrity through the use of a flexible metadata structure. As data is processed in the toolbox, DataRail keeps track of data origins and creates an internal copy of functions and parameters that are used. Thus, a DataRail Project is self-contained and can serve as a way to exchange both data and models.
 
