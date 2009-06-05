@@ -24,3 +24,23 @@ Bioinformatics, 24:6, 840-847 (2008). [http://dx.doi.org/10.1093/bioinformatics/
 JSR and AG contributed equally to this work.
 
 *[http://code.google.com/p/sbpipeline/downloads/list Click here] to download DataRail* and some additional materials such as slides of a presentation or a tutorial.
+
+
+--------------------------------------
+
+* 05/22/09 - New version 1.1* -
+[http://code.google.com/p/sbpipeline/downloads/list Click here] to
+download
+
+New features:
+
+- Simplified data input format
+
+- Extended normalizations routines
+
+- Bugs fixed
+
+- *Coming soon*: Coupling to logic-based pathway calibration
+(CellNetOptimizer) and Bayesian inference
+
+--------------------------------------
