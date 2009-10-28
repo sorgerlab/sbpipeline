@@ -1,6 +1,5 @@
-#summary is an open source MATLAB toolbox for studying signaling networks using high-throughput data using a logic formalism.
+#summary is a MATLAB toolbox for studying signaling networks using high-throughput data using a logic formalism.
 
-CellNetOptimizer is under development, but will be available soon. 
+CellNetOptimizer is [http://www.cdpcenter.org/resources/software/cellnetoptimizer/ hosted here].
 
-In the meantime, feel free to contact 
-[http://saezrodriguez.googlepages.com/ Julio Saez-Rodriguez].
+ 
