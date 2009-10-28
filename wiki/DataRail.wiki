@@ -11,7 +11,10 @@ The toolbox comprises the data-handling component of a larger effort in the
 DataRail was developed by members of the Sorger Lab, Harvard Medical School Department of Systems Biology and of the Lauffenburger Lab, MIT Biological Engineering. The primary developers of DataRail are [http://saezrodriguez.googlepages.com Julio Saez-Rodriguez] and Arthur Goldsipe; Jeremy Muhlich and Bjorn Millard also assist in the development of DataRail and are developing additional components of SBPipeline.
 
 Data can be exported in a minimal information standard (MIDAS-Minimal Information for Data Analysis in Systems Biology) as well as in specific formats for
-[http://www.potterswheel.de/ PottersWheel] and [http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html CellNetAnalyzer].
+[http://www.potterswheel.de/ PottersWheel],  [http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html CellNetAnalyzer] and [http://www.cdpcenter.org/resources/software/cellnetoptimizer/ CellNetOptimizer].
+
+ is a MATLAB toolbox for creating logic-based models signaling networks and train them agains high-throughput biochemical data.
+
 
 
 
