@@ -36,7 +36,7 @@ download
 
 New features: 
 
-- Bayesian inference via BNSL (Bayesian Network Structure Learning), developed by D. Eaton and K. Murphy, see [http://www.cs.ubc.ca/ ~murphyk/ http://www.cs.ubc.ca/ ~murphyk/].	
+- Bayesian inference via BNSL (Bayesian Network Structure Learning), developed by D. Eaton and K. Murphy, see [http://www.cs.ubc.ca/~murphyk/ http://www.cs.ubc.ca/~murphyk/].	
 
 -  Coupling to logic-based pathway modeling ([http://www.cdpcenter.org/resources/software/cellnetoptimizer/ CellNetOptimizer])  
 
