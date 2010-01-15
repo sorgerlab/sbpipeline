@@ -31,10 +31,10 @@ JSR and AG contributed equally to this work.
 
 --------------------------------------
 
-- *01/15/10 - New version 1.2* 
+- *01/15/10 - New version 1.2* - http://code.google.com/p/sbpipeline/downloads/list Click here] to
+download
 
 New features: 
-
 
 - Bayesian inference via BNSL (Bayesian Network Structure Learning), developed by D. Eaton and K. Murphy, see [http://www.cs.ubc.ca/ ~murphyk/ http://www.cs.ubc.ca/ ~murphyk/].	
 
