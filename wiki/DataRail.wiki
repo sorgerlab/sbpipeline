@@ -12,10 +12,6 @@ DataRail was developed by members of the Sorger Lab, Harvard Medical School Depa
 
 Data can be exported in a minimal information standard (MIDAS-Minimal Information for Data Analysis in Systems Biology) as well as in specific formats for other tools such as [http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html CellNetAnalyzer] and [http://www.cdpcenter.org/resources/software/cellnetoptimizer/ CellNetOptimizer].
 
- is a MATLAB toolbox for creating logic-based models signaling networks and train them agains high-throughput biochemical data.
-
-
-
 
 You can find more details about DataRail in the following article:
 
