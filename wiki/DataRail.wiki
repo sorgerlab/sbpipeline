@@ -26,7 +26,7 @@ JSR and AG contributed equally to this work.
 
 --------------------------------------
 
-- *01/15/10 - New version 1.2* - http://code.google.com/p/sbpipeline/downloads/list Click here] to
+- *01/15/10 - New version 1.2* - [http://code.google.com/p/sbpipeline/downloads/list Click here] to
 download
 
 New features: 
